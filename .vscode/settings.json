@@ -12,5 +12,5 @@
       "source.organizeImports": "explicit"
     }
   },
-  "prettier.configPath": ".prettierrc"
+  "prettier.configPath": ".prettierrc",
 }
